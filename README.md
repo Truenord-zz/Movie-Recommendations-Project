@@ -49,6 +49,9 @@ Top-10 recommendations, a test rating of 3 or higher counts as relevant.
 RP3beta, GF-CF, KNN and LightGCN are very close to each other in performance. And notably, none of the hybrid methods beat a simple item-based KNN.
 
 
+## Data
+The dataset is a sample (30,000 train and 7,500 test ratings) of the Video Games category of the Amazon Reviews 2023 dataset from McAuley Lab https://amazon-reviews-2023.github.io/.
+
 ## Structure
 
 ```
